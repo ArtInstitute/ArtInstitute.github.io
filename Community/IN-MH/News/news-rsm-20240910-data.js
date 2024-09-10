@@ -2,7 +2,7 @@ var data={};
 
 data.header="स्व.रुखमाबाई शामरावजी मंथनवार यांना भावपुर्ण श्रद्धांजली";
 
-data.img="rsm-20240910e.jpg";
+data.img="rsm-20240910.jpg";
 
 data.caption="Late Mrs Rukhmabai S Manthanwar, Nagpur, India";
 
