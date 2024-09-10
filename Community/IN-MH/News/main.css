@@ -1,0 +1,52 @@
+
+body{
+  padding: 20px;
+  font-size:20px;
+}
+#date{
+  color: #999;
+  font-size: 14px;
+  
+}
+
+h1{
+  font-size:28px;
+  color: green;
+  
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+figcaption{
+  margin-top:10px;
+  color: #555;
+  font-size: 14px;
+}
+figcaption span:first-child{
+   text-transform: uppercase;
+  
+}
+article{
+  margin-top: 30px;
+}
+
+article p{
+  
+  margin-top: 20px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  
+}
+
+article::after {
+  margin:0;
+  padding:0;
+  color : blueviolet;
+  content:"▪▪▪";
+  font-size: 40px;
+}
