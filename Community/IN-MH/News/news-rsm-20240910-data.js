@@ -1,10 +1,10 @@
 var data={};
 
-data.header="श्री श्रीकांत मंथनवार यांना पदोन्नतीच्या हार्दिक शुभेच्छा";
+data.header="स्व.रुखमाबाई शामरावजी मंथनवार यांना भावपुर्ण श्रद्धांजली";
 
-data.img="srm-20240910e.jpg";
+data.img="rsm-20240910e.jpg";
 
-data.caption="Shrikant R Manthanwar, Nagpur, India";
+data.caption="Late Mrs Rukhmabai S Manthanwar, Nagpur, India";
 
 data.article=`
 <p>
