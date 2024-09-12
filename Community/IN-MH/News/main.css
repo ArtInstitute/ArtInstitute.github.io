@@ -1,0 +1,48 @@
+body{
+  margin: 0;
+  padding: 20px;
+}
+
+h1{
+  color: black;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+figure{
+  margin: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption,#date {
+  font-size: 14px;
+  color: gray;
+  margin-top: 2px;
+}
+
+figcaption span{
+  text-transform: uppercase;
+}
+
+p{
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+#article-end{
+  color: maroon;
+  font-size: 15px;
+}
+
+#aHead{
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  text-decoration: none;
+  font-size: 24px;
+}
