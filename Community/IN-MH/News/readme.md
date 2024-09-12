@@ -1,1 +1,1 @@
-# MH ommunity news
+# MH community news
